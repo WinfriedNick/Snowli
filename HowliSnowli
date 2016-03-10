@@ -288,7 +288,7 @@ public enum Sound {
 	ENTITY_LEASHKNOT_BREAK("entity.leashknot.break"), 
 	ENTITY_LEASHKNOT_PLACE("entity.leashknot.place"), 
 	ENTITY_LIGHTNING_IMPACT("entity.lightning.impact"), 
-	ENTITY_LIGHTNING_THUNDER("entity.lightning.thunder"), 
+	ENTITY_LIGHTNING_THUNDER("entity.lightning.thunder", "ambient.weather.thunder", SoundType.AMBIENT), 
 	ENTITY_LINGERINGPOTION_THROW("entity.lingeringpotion.throw"), 
 	ENTITY_MAGMACUBE_DEATH("entity.magmacube.death"), 
 	ENTITY_MAGMACUBE_HURT("entity.magmacube.hurt"), 
