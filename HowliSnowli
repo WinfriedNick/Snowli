@@ -467,6 +467,6 @@ public enum Sound {
 	RECORD_WAIT("record.wait"), 
 	RECORD_WARD("record.ward"), 
 	UI_BUTTON_CLICK("ui.button.click"), 
-	WEATHER_RAIN("weather.rain"), 
+	WEATHER_RAIN("weather.rain", "ambient.weather.rain", SoundType.AMBIENT), 
 	WEATHER_RAIN_ABOVE("weather.rain.above");
 }
